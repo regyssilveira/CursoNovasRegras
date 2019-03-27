@@ -1,0 +1,16 @@
+Dia 1
+– Como está o panorama da NFC-e no país, obrigações e prazos
+– Panorama geral das mudanças introduzidas no layout 4.0 para NFC-e
+- Novas regras GTIN
+– Novas regras para meios de pagamento
+– Novas regras e tags de FCP
+– Novas regras para partilha de ICMS
+
+Dia 2
+- Tabela CAMEX de unidades
+- Planilha de calculo com produtos fora do padrão
+– Mudanças no layout impressão, consulta e QRCode
+- Contingência da NF-e
+– Contingência da NFC-e
+– Evento de cancelamento por Substituição
+– Como evitar problemas com consumo indevido
